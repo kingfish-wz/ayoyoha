@@ -45,9 +45,7 @@ User tersebut berada di tabel radcheck.
 
 ## SQL Driver
 
-```text
 BaecKrad menggunakan:
-```
 
 ```bash
 rlm_sql
